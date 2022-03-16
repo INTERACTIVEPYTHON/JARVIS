@@ -357,3 +357,4 @@ if __name__ == "__main__":
                 'exit' in query or 'bye jarvis' in query or 'go offline jarvis' in query or 'bye' in query or 'nothing' in query or 'close' in query):
             wishme_end()
             break
+#This is not for trade purposes
